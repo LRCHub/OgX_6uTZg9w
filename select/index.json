@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "All for One",
+  "base_artist": "hololive English",
+  "createdAt": "2025-12-13T12:10:34.639974Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All for One",
+      "artist": "Stryper",
+      "has_synced": true,
+      "path": "select/01_All_for_One_Stryper.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All for One",
+      "artist": "Raven",
+      "has_synced": false,
+      "path": "select/02_All_for_One_Raven.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All for One",
+      "artist": "Raven",
+      "has_synced": true,
+      "path": "select/03_All_for_One_Raven.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All for One",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/04_All_for_One_Saxon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All for One - Live",
+      "artist": "Raven",
+      "has_synced": false,
+      "path": "select/05_All_for_One_-_Live_Raven.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All for One",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/06_All_for_One_Uriah_Heep.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All For One",
+      "artist": "Stryper",
+      "has_synced": true,
+      "path": "select/07_All_For_One_Stryper.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All For One",
+      "artist": "Diana Ross",
+      "has_synced": true,
+      "path": "select/08_All_For_One_Diana_Ross.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All For One, One For All",
+      "artist": "At Vance",
+      "has_synced": true,
+      "path": "select/09_All_For_One,_One_For_All_At_Vance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All for One",
+      "artist": "Blackmore's Night",
+      "has_synced": false,
+      "path": "select/10_All_for_One_Blackmore's_Night.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All for One",
+      "artist": "hololive English",
+      "has_synced": false,
+      "path": "select/pl_01_All_for_One_hololive_English.txt"
+    }
+  ]
+}
